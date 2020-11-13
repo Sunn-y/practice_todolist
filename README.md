@@ -1,4 +1,5 @@
 # todolist(Mobile App)
+![todolist.png](https://github.com/Sunn-y/todolist/tree/master/src/assets/todolist.png)
 
 ## Project setup
 ```
