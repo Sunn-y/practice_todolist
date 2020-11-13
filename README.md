@@ -1,4 +1,4 @@
-# todolist
+# todolist(Mobile App)
 
 ## Project setup
 ```
